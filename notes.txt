@@ -1,3 +1,5 @@
 Line 1: Stable text
-Line 2: Added by feature A
+Line 2: Combined - features A & B
 Line 3: Feature A specific
+Line 4: Feature B specific
+
