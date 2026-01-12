@@ -1,2 +1,3 @@
 Line 1: Stable text
-Line 2: To be changed
+Line 2: Added by feature A
+Line 3: Feature A specific
