@@ -1,5 +1,3 @@
-Line 1: Stable text
-Line 2: Combined - features A & B
-Line 3: Feature A specific
-Line 4: Feature B specific
-
+Line 1: Stable text  
+Line 2: Main branch modification
+Line 6: Main branch addition
